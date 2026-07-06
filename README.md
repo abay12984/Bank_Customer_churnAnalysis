@@ -1,7 +1,7 @@
 # # Bank Customer Churn Analysis (SQL Data Project)
 
 ## 📌 Project Overview
-Customer retention is one of the primary drivers of long-term profitability in retail banking. This project focuses on analyzing an industry-standard **Customer Churn Dataset** containing 10,000 records. Using **PostgreSQL / MySQL**, I designed a structured relational database schema and executed descriptive analytics queries to isolate exactly why, when, and which demographics of customers are leaving the bank.
+Customer retention is one of the primary drivers of long-term profitability in retail banking. This project focuses on analyzing an industry-standard **Customer Churn Dataset** . Using MySQL, I designed a structured relational database schema and executed descriptive analytics queries to isolate exactly why, when, and which demographics of customers are leaving the bank.
 
 ---
 
